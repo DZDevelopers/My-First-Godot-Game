@@ -1,0 +1,51 @@
+[gd_scene load_steps=3 format=3 uid="uid://b20f4ktp6426l"]
+
+[ext_resource type="Texture2D" uid="uid://cw5yqjacqv8bk" path="res://Assets/brackeys_platformer_assets/kenney_ui-pack/Vector/Green/button_rectangle_flat.svg" id="1_06t4h"]
+[ext_resource type="Script" uid="uid://cflbqs254oa70" path="res://Start_Button.gd" id="2_7vrkn"]
+
+[node name="MainMenu" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Camera2D" type="Camera2D" parent="."]
+offset = Vector2(100, 0)
+
+[node name="Start" type="Button" parent="."]
+layout_mode = 0
+offset_top = -120.0
+offset_right = 200.0
+offset_bottom = -48.0
+text = "Start"
+icon = ExtResource("1_06t4h")
+flat = true
+icon_alignment = 1
+script = ExtResource("2_7vrkn")
+
+[node name="Settings" type="Button" parent="."]
+layout_mode = 0
+offset_top = -22.0
+offset_right = 200.0
+offset_bottom = 50.0
+text = "Seettings"
+icon = ExtResource("1_06t4h")
+flat = true
+icon_alignment = 1
+
+[node name="Quit" type="Button" parent="."]
+layout_mode = 0
+offset_top = 80.0
+offset_right = 200.0
+offset_bottom = 152.0
+text = "Quit
+"
+icon = ExtResource("1_06t4h")
+flat = true
+icon_alignment = 1
+expand_icon = true
+
+[connection signal="pressed" from="Start" to="Start" method="_on_start_pressed"]
+[connection signal="pressed" from="Quit" to="Start" method="_on_quit_pressed"]

@@ -49,7 +49,11 @@ script = ExtResource("1_kpjcp")
 position = Vector2(-19, -12)
 sprite_frames = SubResource("SpriteFrames_kpjcp")
 animation = &"Idle"
-frame_progress = 0.044802107
+frame_progress = 0.011387121
+
+[node name="RichTextLabel" type="RichTextLabel" parent="AnimatedSprite2D"]
+offset_right = 40.0
+offset_bottom = 40.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-19, -8)
