@@ -1,1 +1,1 @@
-# My-First-Github-Game
+# My-First-Godot-Game
