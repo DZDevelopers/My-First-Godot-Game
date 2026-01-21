@@ -26,12 +26,15 @@ Or download the ZIP from GitHub and extract it.
 Open Godot Engine
 
 Click Import
+<img width="1600" height="832" alt="image" src="https://github.com/user-attachments/assets/1e3bf264-a438-48c0-8bf5-ac3ebb79abe3" />
 
 Select the project folder
 
 Choose the project.godot file
+<img width="1600" height="859" alt="image" src="https://github.com/user-attachments/assets/34e5a2ca-6955-4856-805b-e75352daf12c" />
 
-Click Import & Edit
+Click Import & Edit Now
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/e45dc00f-2052-462a-ba6a-ca7e67c7824c" />
 
 ## Exporting the Game
 
