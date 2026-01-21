@@ -50,9 +50,10 @@ Add an export preset (Windows, Linux, Web, etc.)
 Download Export Template
 <img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/705e101a-b030-4f8b-b31b-e5a6cd973a9b" />
 
-Configure export settings
+Configure export settings (Optional)
 
 Click Export Project
+<img width="1600" height="854" alt="image" src="https://github.com/user-attachments/assets/16159a02-fea2-4bb5-a71c-353b85b29d34" />
 
 ## Author
 
