@@ -30,3 +30,8 @@ Go to Project → Export
 Add an export preset (Windows, Linux, Web, etc.)
 Configure export settings
 Click Export Project
+
+# Author
+
+AymenD (DZDevelopers)
+https://aymend.itch.io/
