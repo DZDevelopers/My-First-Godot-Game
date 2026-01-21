@@ -48,17 +48,13 @@ Click Export Project
 
 ### Credits
 Brackeys
-
 analogStudios_
-
 RottingPixels
-
 camelot_, Slime 
-
 dungeonSprites_
-
 ## Author
 
 AymenD (DZDevelopers)
+
 https://aymend.itch.io/
 
