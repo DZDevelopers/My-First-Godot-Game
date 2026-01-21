@@ -9,6 +9,7 @@ First you will need to download Godot Engine 4.x
 You don't really need git but i recommend downloading it
 
   Download from here: https://desktop.github.com/download
+  
 ## How To Install
 
 ### 1. Clone the Repository
@@ -41,8 +42,13 @@ Click Import & Edit Now
 If you want to build a playable version:
 
 Go to Project → Export
+<img width="1600" height="862" alt="image" src="https://github.com/user-attachments/assets/17d2ca11-7e1b-443c-b108-997571dad6fa" />
 
 Add an export preset (Windows, Linux, Web, etc.)
+<img width="1600" height="861" alt="image" src="https://github.com/user-attachments/assets/772aae56-26e8-42db-9481-a40400846819" />
+
+Download Export Template
+<img width="1600" height="856" alt="image" src="https://github.com/user-attachments/assets/705e101a-b030-4f8b-b31b-e5a6cd973a9b" />
 
 Configure export settings
 
