@@ -15,7 +15,7 @@ You don't really need git but i recommend downloading it
 
 Using Git:
 
-git clone https://github.com/DZDevelopers/My-First-Godot-Game.git
+git clone ["here"](https://github.com/DZDevelopers/My-First-Godot-Game.git)
 
 Or download the ZIP from GitHub and extract it.
 
@@ -24,20 +24,41 @@ Or download the ZIP from GitHub and extract it.
 ### 2. Open the Project in Godot
 
 Open Godot Engine
+
 Click Import
+
 Select the project folder
+
 Choose the project.godot file
+
 Click Import & Edit
 
 ## Exporting the Game
 
 If you want to build a playable version:
+
 Go to Project → Export
+
 Add an export preset (Windows, Linux, Web, etc.)
+
 Configure export settings
+
 Click Export Project
 
-## Author and Credits
+
+### Credits
+Brackeys
+
+analogStudios_
+
+RottingPixels
+
+camelot_, Slime 
+
+dungeonSprites_
+
+## Author
 
 AymenD (DZDevelopers)
 https://aymend.itch.io/
+
