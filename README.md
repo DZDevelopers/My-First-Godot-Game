@@ -19,6 +19,7 @@ git clone https://github.com/DZDevelopers/My-First-Godot-Game.git
 
 Or download the ZIP from GitHub and extract it.
 
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/36fb68ec-3c48-40fd-bae0-2c52d579848e" />
 
 ### 2. Open the Project in Godot
 
@@ -36,7 +37,7 @@ Add an export preset (Windows, Linux, Web, etc.)
 Configure export settings
 Click Export Project
 
-# Author
+## Author and Credits
 
 AymenD (DZDevelopers)
 https://aymend.itch.io/
